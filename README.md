@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next-js**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react js,redux-toolkit**
 
 - 📫 How to reach me **shahmayousuf@gmail.com**
 
