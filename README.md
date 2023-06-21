@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahma yousuf</h1>
 <h3 align="center">A passionate React frontend developer</h3>
 
-- 🌱 I’m currently learning **Next-js and tailwind-css**
+- 🌱 I’m currently learning **Next-js **
 
-- 💬 Ask me about **react js and redux-toolkit**
+- 💬 Ask me about **react js **
 
 - 📫 How to reach me **shahmayousuf@gmail.com**
 
