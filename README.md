@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahma yousuf</h1>
 <h3 align="center">A passionate React-js frontend developer</h3>
 
-- 🌱 I’m currently learning **Next-js and type-script **
+- 🌱 I’m currently learning **Next-js  **
 
 - 💬 Ask me about **React-js and redux-toolkit **
 
