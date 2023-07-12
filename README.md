@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  SHAHMA YOUSUF</h1>
-<h3 align="center">A passionate React-js front-end developer</h3>
+<h3 align="center">A passionate React front-end developer</h3>
 
 - 🌱 I’m currently learning **Next-js and type-script  **
 
