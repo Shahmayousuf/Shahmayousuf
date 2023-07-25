@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Shahma YousufF</h1>
+<h1 align="center">Hi 👋, I'm  Shahma Yousuf</h1>
 <h3 align="center">A passionate React front-end developer</h3>
 
 - 🌱 I’m currently learning **Next-js   **
