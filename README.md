@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **nodejs and type-script **
 
-- 💬 Ask me about **react-js and frontend development **
+- 💬 Ask me about **react-js **
 
 - 📫 How to reach me **shahmayousuf@gmail.com**
 
