@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahma Yousuf</h1>
 <h3 align="center">A passionate React-js Developer</h3>
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently learning **node-js**
 
 - 💬 Ask me about **react-js**
 
